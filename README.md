@@ -1,4 +1,4 @@
-[oldNode](https://github.com/1211ciel/lean-go/wiki) [oldNode2](https://github.com/1211ciel/nodebook/wiki)
+[oldNode](https://github.com/1211ciel/lean-go/wiki) [oldNode2](https://github.com/1211ciel/nodebook/wiki) [wiki](https://github.com/1211ciel/ciel/wiki) [newNode](https://github.com/1211ciel/ciel/edit/main/README.md)
 # 笔记
 ## 资讯
 - [ycombinator](https://news.ycombinator.com/) (gozero大佬推荐的,没事可以逛逛,风格简洁,可以学写一个😄)
