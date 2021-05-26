@@ -74,3 +74,31 @@ HTML 不是一门编程语言，而是一种用于定义内容结构的标记语
 ```
 <img src="images/firefox-icon.png" alt="测试图片">
 ```
+## 标记文本
+本段包含了一些最常用的文本标记 HTML 元素。
+### 标题（Heading）
+标题元素可用于指定内容的标题和子标题。就像一本书的书名、每章的大标题、小标题，等。HTML 文档也是一样。HTML 包括六个级别的标题， `<h1>–<h6>` ，一般最多用到 3-4 级标题。
+```
+<h1>主标题</h1>
+<h2>顶层标题</h2>
+<h3>子标题</h3>
+<h4>次子标题</h4>
+```
+### 段落（Paragraph）
+[`<p>`](https://developer.mozilla.org/zh-CN/docs/Web/HTML/Element/p) 元素是用来指定段落的。通常用于指定常规的文本内容：
+```
+<p>这是一个段落</p>
+```
+### 列表（List）
+Web 上的许多内容都是列表，HTML 有一些特别的列表元素。标记列表通常包括至少两个元素。最常用的列表类型为：
+1. 无序列表（Unordered List）中项目的顺序并不重要，就像购物列表。用一个 `<ul>` 元素包围。
+2. 有序列表（Ordered List）中项目的顺序很重要，就像烹调指南。用一个 `<ol>` 元素包围。
+
+列表的每个项目用一个列表项目（List Item）元素 `<li>` 包围
+
+### 链接
+链接非常重要 — 它们赋予 Web 网络属性。要植入一个链接，我们需要使用一个简单的元素 — [`<a>`](https://developer.mozilla.org/zh-CN/docs/Web/HTML/Element/a) — a 是 "anchor" （锚）的缩写。
+```
+<a href="https://www.mozilla.org/zh-CN/about/manifesto/">Mozilla 宣言</a>
+```
+
