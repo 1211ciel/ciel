@@ -82,6 +82,7 @@ myImage.onclick = function () {
         myImage.setAttribute('src', 'images/golang.png')
     }
 }
+```
 
 ### 添加个性化欢迎信息
 下面来添加另一段代码，在用户初次进入站点时将网页的标题改成一段个性化欢迎信息（即在标题中添加用户的名字）。名字信息会由 [Web Storage API](https://developer.mozilla.org/zh-CN/docs/Web/API/Web_Storage_API) 保存下来，即使用户关闭页面之后再重新打开，仍可得到之前的信息。还会添加一个选项，可以根据需要改变用户名字以更新欢迎信息。
@@ -103,5 +104,16 @@ function setUserName() {
   let myName = prompt('请输入你的名字。');
   localStorage.setItem('name', myName);
   myHeading.textContent = 'Mozilla 酷毙了，' + myName;
+}
+```
+该函数首先调用了 prompt() 函数， 与 alert() 类似会弹出一个对话框。但是这里需要用户输入数据，并在确定后将数据存储在 myName 变量里。接下来将调用 localStorage API ，它可以将数据存储在浏览器中供后续获取。这里用 localStorage 的 setItem() 函数来创建一个'name' 数据项，并把 myName 变量复制给它。最后将 textContent 属性设置为一个欢迎字符串加上这个新设置的名字。
+   
+4. 接下来，添加以下的 if ... else 块。我们可以称之为初始化代码，因为它在页面初次读取时进行构造工作：
+```
+    if(!localStorage.getItem('name')) {
+  setUserName();
+} else {
+  let storedName = localStorage.getItem('name');
+  myHeading.textContent = 'Mozilla 酷毙了，' + storedName;
 }
 ```
