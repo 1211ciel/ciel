@@ -1,0 +1,17 @@
+
+## 通知死循环退出
+```
+quitCh := make(chan struct{})
+go func() {
+    for {
+        select {
+        case <-quitCh:
+            return
+        // other cases to handle what you need to do
+        }
+    }
+}()
+
+// Once you're done
+close(quitCh) // goroutine exits
+```
