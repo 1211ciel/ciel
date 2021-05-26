@@ -14,7 +14,7 @@
 在开始为你的网站写代码之前，你应该先做好规划。你将展示什么信息？你将使用什么样的字体和颜色？ [链接](https://developer.mozilla.org/zh-CN/docs/Learn/Getting_started_with_the_web/What_will_your_website_look_like)
 
 ## HTML基础
-超文本标记语言 ( HTML ) 是用来构建你的网页内容并将其语义化的代码。
+超文本标记语言 ( HTML ) 是用来构建你的网页内容并将其语义化的代码。[HTML基础]()将在你的承受范围内提供足够的信息让你熟悉HTML.
 
 ## CSS基础
 层叠样式(CSS)是用来添加样式到你的网站的代码.举例来说,你想让文字是黑色还是红色的?在屏幕的何处展示内容?用什么背景图像和颜色来装饰你的网站?[CSS基础]()带你完成你需要做的事.
