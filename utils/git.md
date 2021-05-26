@@ -1,4 +1,4 @@
-[home](https://github.com/1211ciel/ciel)
+[home](https://github.com/1211ciel/ciel/blob/main/README.md)
 
 ## 常用功能
 撤销add的内容
