@@ -5,3 +5,11 @@
 ```
 git reset --mixed这样文件退出暂存区，但是修改保留
 ```
+## 删除分支
+```
+// delete branch locally
+git branch -d localBranchName
+
+// delete branch remotely
+git push origin --delete remoteBranchName
+```
