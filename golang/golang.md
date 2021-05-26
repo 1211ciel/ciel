@@ -1,4 +1,4 @@
-
+[home](https://github.com/1211ciel/ciel/blob/main/README.md)
 ## 通知死循环退出
 ```
 quitCh := make(chan struct{})
