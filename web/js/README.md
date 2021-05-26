@@ -110,10 +110,19 @@ function setUserName() {
    
 4. 接下来，添加以下的 if ... else 块。我们可以称之为初始化代码，因为它在页面初次读取时进行构造工作：
 ```
-    if(!localStorage.getItem('name')) {
+if(!localStorage.getItem('name')) {
   setUserName();
 } else {
   let storedName = localStorage.getItem('name');
   myHeading.textContent = 'Mozilla 酷毙了，' + storedName;
+}
+```
+这里首次使用了取非运算符（逻辑非，用 ! 表示）来检测 'name' 数据是否存在。若不存在，调用 setUserName() 创建。若存在（即用户上次访问时设置过），调用 getItem() 获取保存的名字，像上文的 setUserName() 那样设置 textContent。
+    
+最后，为按钮设置 onclick 事件处理器。按钮按下时运行 setUserName() 函数。这样用户就可以通过按这个按钮来自由设置新名字了：
+
+```
+myButton.onclick = function() {
+   setUserName();
 }
 ```
