@@ -2,4 +2,6 @@
 # 笔记
 [golang](https://github.com/1211ciel/ciel/blob/main/golang/golang.md),[git](https://github.com/1211ciel/ciel/blob/main/utils/git.md),[移动端](https://github.com/1211ciel/ciel/blob/main/web/mobile.md)
 
-These are <b style='color:red'>red words</b>.
+```html
+<div>aaa</div>
+```
