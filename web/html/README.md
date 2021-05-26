@@ -44,4 +44,23 @@ HTML 不是一门编程语言，而是一种用于定义内容结构的标记语
 ```
 <img src="images/firefox-icon.png" alt="测试图片">
 ```
+  
 本元素包含两个属性，但是并没有 `</img>` 结束标签，元素里也没有内容。这是因为图像元素不需要通过内容来产生效果，它的作用是向其所在的位置嵌入一个图像。
+
+## HTML文档详解
+以上介绍了一些基本的 HTML 元素，但孤木不成林。现在来看看单个元素如何彼此协同构成一个完整的 HTML 页面。
+```
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>测试页面</title>
+  </head>
+  <body>
+    <img src="images/firefox-icon.png" alt="测试图片">
+  </body>
+</html>
+```
+这里有：
+- `<!DOCTYPE html>` — 文档类型。混沌初分，HTML 尚在襁褓（大约是 1991/92 年）之时，`DOCTYPE` 用来链接一些 HTML 编写守则，比如自动查错之类。`DOCTYPE` 在当今作用有限，仅用于保证文档正常读取。现在知道这些就足够了。
+- `<html></html>` — [`<html>`](https://developer.mozilla.org/zh-CN/docs/Web/HTML/Element/html) 元素。该元素包含整个页面的内容，也称作根元素。
