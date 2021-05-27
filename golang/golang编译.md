@@ -1,4 +1,4 @@
-[home](https://github.com/1211ciel/ciel/blob/main/README.md)
+[go](https://github.com/1211ciel/ciel/blob/main/golang/README.md)
 ```
 Windows 下编译 Mac 和 Linux 64位可执行程序
 
