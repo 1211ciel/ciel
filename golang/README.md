@@ -9,7 +9,7 @@
 [嗨客网go语言教程](https://haicoder.net/golang/golang-tutorial.html)
 
 ## 基础
-[数据类型]()
+[数据类型](https://github.com/1211ciel/ciel/blob/main/golang/dataType.md)
 [通知退出死循环](https://github.com/1211ciel/ciel/blob/main/golang/%E9%80%9A%E7%9F%A5%E9%80%80%E5%87%BA%E6%AD%BB%E5%BE%AA%E7%8E%AF.md)
 [读取用户输入](https://github.com/1211ciel/ciel/blob/main/golang/%E8%AF%BB%E5%8F%96%E6%8E%A7%E5%88%B6%E5%8F%B0%E8%BE%93%E5%85%A5.md)
 
