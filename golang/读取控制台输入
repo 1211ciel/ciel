@@ -1,0 +1,33 @@
+[go](https://github.com/1211ciel/ciel/blob/main/golang/README.md)
+
+---
+
+方式1
+```
+
+var reader = bufio.NewReader(os.Stdin)
+
+// ReadStr 读取控制台输入 以#号结束
+func ReadStr() (string, error) {
+	fmtt.Prompt("请输入内容,以#号结束")
+	return reader.ReadString('#')
+}
+
+```
+方式2
+```
+
+func main() {
+	var (
+		name string
+		age  int
+	)
+	scanln, err := fmt.Scanln(&name, &age)
+	if err != nil {
+		fmt.Println(err)
+		return
+	}
+	fmt.Println(name, age, scanln)
+}
+
+```
