@@ -14,7 +14,7 @@
 [读取用户输入](https://github.com/1211ciel/ciel/blob/main/golang/%E8%AF%BB%E5%8F%96%E6%8E%A7%E5%88%B6%E5%8F%B0%E8%BE%93%E5%85%A5.md)
 
 ## 框架
-[gin文档](https://gin-gonic.com/zh-cn/)
+[gin](https://gin-gonic.com/zh-cn/)
 
 
 ## 功能
