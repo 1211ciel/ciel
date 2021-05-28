@@ -2,7 +2,7 @@
 
 [MDN](https://developer.mozilla.org/zh-CN/docs/learn)|
 [MDN-HTML](https://developer.mozilla.org/zh-CN/docs/Learn/HTML)|
-[w3cHTML](https://www.w3school.com.cn/html/index.asp)|
+[W3C-HTML](https://www.w3school.com.cn/html/index.asp)|
 
 ---
 
