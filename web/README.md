@@ -1,6 +1,5 @@
 [home](https://github.com/1211ciel/ciel/blob/main/README.md)
 
-[千古壹号](https://github.com/qianguyihao/Web)|
 [MDN](https://developer.mozilla.org/zh-CN/docs/learn)|
 [MDN-HTML](https://developer.mozilla.org/zh-CN/docs/Learn/HTML)|
 [w3cHTML](https://www.w3school.com.cn/html/index.asp)|
