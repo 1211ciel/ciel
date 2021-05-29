@@ -9,7 +9,8 @@
 ---
 # 理财
 [同花顺(股票)](www.10jqka.com.cn)|
-[东方财富网自选列表](http://quote.eastmoney.com/zixuan/lite.html)
+[东方财富网自选列表](http://quote.eastmoney.com/zixuan/lite.html)|
+[关注市场的好工具](https://cn.tradingview.com/)
 
 ---
 
