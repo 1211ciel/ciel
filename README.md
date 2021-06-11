@@ -12,6 +12,9 @@
 [东方财富网自选列表](http://quote.eastmoney.com/zixuan/lite.html)|
 [关注市场的好工具](https://cn.tradingview.com/)
 
+## 书籍
+- [穷爸爸富爸爸](https://www.51shucheng.net/jingji/qiongbabafubaba/)
+
 ---
 
 - 仅仅活着是不够的,还需要有阳光,自由和一点花的芬芳.
