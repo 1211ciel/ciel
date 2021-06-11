@@ -14,6 +14,7 @@
 
 ## 书籍
 - [穷爸爸富爸爸](https://www.51shucheng.net/jingji/qiongbabafubaba/)
+- [理财书籍](https://www.zhihu.com/question/20528677)
 
 ---
 
