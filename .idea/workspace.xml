@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9f547f5f-9a08-4948-b8e8-920b3ee94d4a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/router/router.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/style/blog.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/style/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/style/dashboard.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/style/docs.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/style/navbar-fixed-top.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/english/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/financial/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/history/history.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/life/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/program/community.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/program/git/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/program/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/web/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vite.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.babelrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ciel.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ciel.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.postcssrc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/build.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/check-versions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/vue-loader.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/webpack.base.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/webpack.dev.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/webpack.prod.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/dev.env.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/prod.env.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/test.env.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/HelloWorld.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/HelloWorld.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/router/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/e2e/custom-assertions/elementCount.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/e2e/nightwatch.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/e2e/runner.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/e2e/specs/test.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" url="file://$PROJECT_DIR$/../../../../../Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1tsf0tfY9cr8bKROv9YoJBYYxxP" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>

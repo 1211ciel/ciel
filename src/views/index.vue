@@ -1,0 +1,42 @@
+<template>
+  <div class="container">
+    <div class="jumbotron">
+      <h1>Well that's it.</h1>
+      <p>You must do your best and be willing to give your life for it . <br>
+        You must do it anyway. For yourself you must do ,because you have chosen this path.
+      </p>
+    </div>
+    <footer>
+      <div class="bs-callout bs-callout-danger">
+        <h4>BELIEF</h4>
+        <ol>
+          <li>你必须拼尽全力,并且抱着愿意为之献出生命的决心,无论如何一定要完成.为自己,必须这样做,因为你选择了这条路.</li>
+          <li>吹灭读书灯,一身都是月.</li>
+          <li>我佛慈悲.</li>
+          <li>两件阻碍我们自由的事:活在过去和观察他人.</li>
+          <li>把心力用来评论小事的好坏，就没有力气去在乎重要的事了。</li>
+          <li>老要靠别人的鼓励才去奋斗的人不算强者；有别人的鼓励还不去奋斗的人称得上是懦夫。</li>
+        </ol>
+      </div>
+      <div class="bs-callout bs-callout-info">
+        <h4>KEEP</h4>
+        <ol>
+          <li>习惯很重要啦</li>
+          <li>水滴石穿</li>
+          <li>感觉还没熟,重头再来,熟能生巧.</li>
+          <li>也不过只是为了想让这世界知道，反复坚持之后，柔水终成雕刀。</li>
+          <li>坚持是一切的答案.</li>
+          <li>以深深的谦虚和忍耐去期待一个豁然贯通的时刻.</li>
+          <li>有些事不是看到了希望才去坚持,而是坚持了才看得到希望</li>
+          <li>只要你不停止,走得慢一点没关系.</li>
+          <li>骐骥一跃，不能十步；驽马十架，功在不舍。锲而舍之，朽本不折；锲而不舍，金石可镂。</li>
+        </ol>
+      </div>
+    </footer>
+  </div>
+</template>
+<script>
+export default {
+  name: "indeix"
+}
+</script>
