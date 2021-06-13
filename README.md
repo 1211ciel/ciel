@@ -2,6 +2,4 @@
 # 笔记
 
 [前端](https://github.com/1211ciel/ciel/tree/main/web/README.md)|
-[移动端](https://github.com/1211ciel/ciel/blob/main/web/mobile.md)|
-[项目]()
 
