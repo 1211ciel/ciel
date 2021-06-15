@@ -1,27 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9f547f5f-9a08-4948-b8e8-920b3ee94d4a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/history/category.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/history/country/japan.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/history/country/usa.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/history/time/middleAges.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/history/time/modernTimes.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/history/time/riseOfCivilization.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/history/time/stoneAge.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/history/time/twentiethCentury.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ciel.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ciel.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/router/router.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/router/router.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/history/history.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/history/history.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/program/git/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/program/git/index.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/program/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/program/index.vue" afterDir="false" />
-    </list>
+    <list default="true" id="9f547f5f-9a08-4948-b8e8-920b3ee94d4a" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
