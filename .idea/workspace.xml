@@ -2,8 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9f547f5f-9a08-4948-b8e8-920b3ee94d4a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/history/category.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/history/country/japan.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/history/country/usa.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/history/time/middleAges.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/history/time/modernTimes.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/history/time/riseOfCivilization.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/history/time/stoneAge.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/history/time/twentiethCentury.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ciel.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ciel.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/router/router.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/router/router.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/history/history.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/history/history.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/views/program/git/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/program/git/index.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/views/program/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/program/index.vue" afterDir="false" />
     </list>
@@ -15,9 +30,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="CSS File" />
         <option value="Vue Single File Component" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -41,14 +56,20 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/style" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\admin\Desktop\learn\ciel\src\style" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TypeScriptGeneratedFilesManager">

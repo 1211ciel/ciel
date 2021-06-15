@@ -42,7 +42,41 @@ export default createRouter({
         // history
         {
             path: '/history',
-            component: () => import("../views/history/history.vue")
+            component: () => import("../views/history/history.vue"),
+            children: [
+                {
+                    path: "/history/category",
+                    component: () => import("../views/history/category.vue")
+                },
+                {
+                    path: "/japan",
+                    component: () => import("../views/history/country/japan.vue")
+                },
+                {
+                    path: "/usa",
+                    component: () => import("../views/history/country/usa.vue")
+                },
+                {
+                    path: "/stoneAge",
+                    component: () => import("../views/history/time/stoneAge.vue")
+                },
+                {
+                    path: "/riseOfCivilization",
+                    component: () => import("../views/history/time/riseOfCivilization.vue")
+                },
+                {
+                    path: "/middleAges",
+                    component: () => import("../views/history/time/middleAges.vue")
+                },
+                {
+                    path: "/modernTimes",
+                    component: () => import("../views/history/time/modernTimes.vue")
+                },
+                {
+                    path: "/twentiethCentury",
+                    component: () => import("../views/history/time/twentiethCentury.vue")
+                }
+            ]
         },
         // life
         {

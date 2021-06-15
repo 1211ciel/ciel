@@ -23,7 +23,7 @@
             <router-link to="/financial">Financial</router-link>
           </li>
           <li>
-            <router-link to="/history">History</router-link>
+            <router-link to="/history/category">History</router-link>
           </li>
           <li>
             <router-link to="/life">Life</router-link>
