@@ -1,0 +1,21 @@
+{
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "bootstrap": "^3.4.1",
+    "vue": "^3.0.5",
+    "vue-router": "^4.0.8"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^1.2.3",
+    "@vue/compiler-sfc": "^3.0.5",
+    "jquery": "^3.6.0",
+    "naive-ui": "^2.11.8",
+    "popper.js": "^1.16.1",
+    "vite": "^2.3.7"
+  }
+}
