@@ -26,4 +26,8 @@ go.sum
 /server/gva
 /server/latest_log
 
+<<<<<<< HEAD
 *.iml
+=======
+*.iml
+>>>>>>> 229fff84a05be0efe351c2446bc782ba0c25b133
