@@ -1,0 +1,287 @@
+<map version="freeplane 1.9.0">
+<!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
+<node TEXT="Home" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1632024353908" STYLE="oval">
+<font SIZE="18"/>
+<hook NAME="MapStyle">
+    <properties fit_to_viewport="false" show_icon_for_attributes="true" show_note_icons="true" edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff"/>
+
+<map_styles>
+<stylenode LOCALIZED_TEXT="styles.root_node" ID="ID_107474902" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24 pt">
+<font SIZE="24"/>
+<stylenode LOCALIZED_TEXT="styles.predefined" POSITION="right" STYLE="bubble">
+<stylenode LOCALIZED_TEXT="default" ID="ID_271890427" ICON_SIZE="12 pt" COLOR="#000000" STYLE="fork">
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="200" DASH="" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_271890427" STARTARROW="DEFAULT" ENDARROW="NONE"/>
+<font NAME="SansSerif" SIZE="10" BOLD="false" ITALIC="false"/>
+<richcontent CONTENT-TYPE="plain/auto" TYPE="DETAILS"/>
+<richcontent TYPE="NOTE" CONTENT-TYPE="plain/auto"/>
+</stylenode>
+<stylenode LOCALIZED_TEXT="defaultstyle.details"/>
+<stylenode LOCALIZED_TEXT="defaultstyle.attributes">
+<font SIZE="9"/>
+</stylenode>
+<stylenode LOCALIZED_TEXT="defaultstyle.note" COLOR="#000000" BACKGROUND_COLOR="#ffffff" TEXT_ALIGN="LEFT"/>
+<stylenode LOCALIZED_TEXT="defaultstyle.floating">
+<edge STYLE="hide_edge"/>
+<cloud COLOR="#f0f0f0" SHAPE="ROUND_RECT"/>
+</stylenode>
+<stylenode LOCALIZED_TEXT="defaultstyle.selection" BACKGROUND_COLOR="#4e85f8" STYLE="bubble" BORDER_COLOR_LIKE_EDGE="false" BORDER_COLOR="#4e85f8"/>
+</stylenode>
+<stylenode LOCALIZED_TEXT="styles.user-defined" POSITION="right" STYLE="bubble">
+<stylenode LOCALIZED_TEXT="styles.topic" COLOR="#18898b" STYLE="fork">
+<font NAME="Liberation Sans" SIZE="10" BOLD="true"/>
+</stylenode>
+<stylenode LOCALIZED_TEXT="styles.subtopic" COLOR="#cc3300" STYLE="fork">
+<font NAME="Liberation Sans" SIZE="10" BOLD="true"/>
+</stylenode>
+<stylenode LOCALIZED_TEXT="styles.subsubtopic" COLOR="#669900">
+<font NAME="Liberation Sans" SIZE="10" BOLD="true"/>
+</stylenode>
+<stylenode LOCALIZED_TEXT="styles.important" ID="ID_67550811">
+<icon BUILTIN="yes"/>
+<arrowlink COLOR="#003399" TRANSPARENCY="255" DESTINATION="ID_67550811"/>
+</stylenode>
+</stylenode>
+<stylenode LOCALIZED_TEXT="styles.AutomaticLayout" POSITION="right" STYLE="bubble">
+<stylenode LOCALIZED_TEXT="AutomaticLayout.level.root" COLOR="#000000" STYLE="oval" SHAPE_HORIZONTAL_MARGIN="10 pt" SHAPE_VERTICAL_MARGIN="10 pt">
+<font SIZE="18"/>
+</stylenode>
+<stylenode LOCALIZED_TEXT="AutomaticLayout.level,1" COLOR="#0033ff">
+<font SIZE="16"/>
+</stylenode>
+<stylenode LOCALIZED_TEXT="AutomaticLayout.level,2" COLOR="#00b439">
+<font SIZE="14"/>
+</stylenode>
+<stylenode LOCALIZED_TEXT="AutomaticLayout.level,3" COLOR="#990000">
+<font SIZE="12"/>
+</stylenode>
+<stylenode LOCALIZED_TEXT="AutomaticLayout.level,4" COLOR="#111111">
+<font SIZE="10"/>
+</stylenode>
+<stylenode LOCALIZED_TEXT="AutomaticLayout.level,5"/>
+<stylenode LOCALIZED_TEXT="AutomaticLayout.level,6"/>
+<stylenode LOCALIZED_TEXT="AutomaticLayout.level,7"/>
+<stylenode LOCALIZED_TEXT="AutomaticLayout.level,8"/>
+<stylenode LOCALIZED_TEXT="AutomaticLayout.level,9"/>
+<stylenode LOCALIZED_TEXT="AutomaticLayout.level,10"/>
+<stylenode LOCALIZED_TEXT="AutomaticLayout.level,11"/>
+</stylenode>
+</stylenode>
+</map_styles>
+</hook>
+<hook NAME="AutomaticEdgeColor" COUNTER="21" RULE="ON_BRANCH_CREATION"/>
+<node TEXT="历史" POSITION="right" ID="ID_4966084" CREATED="1632024179778" MODIFIED="1632024202172">
+<edge COLOR="#0000ff"/>
+<node TEXT="亚洲史" ID="ID_1891506045" CREATED="1632024194345" MODIFIED="1632028695417" TEXT_SHORTENED="true">
+<attribute_layout NAME_WIDTH="39.75 pt" VALUE_WIDTH="390.74999 pt"/>
+<attribute NAME="说明" VALUE="亚洲历史可以被看作是东亚、南亚、东南亚和中东等几个不同周边沿海地区的集体历史"/>
+<node TEXT="史前史" ID="ID_1332198077" CREATED="1632028826144" MODIFIED="1632028837020"/>
+<node TEXT="青铜时代" FOLDED="true" ID="ID_659591090" CREATED="1632028938328" MODIFIED="1632031122771">
+<node TEXT="铜器时代开始于前4500年左右，然后青铜时代开始于公元前3500前左右，取代了新石器时代的文化。&#xa;&#xa;印度河流域文明在青铜时代，主要集中在印度大陆的西部；人们认为印度教的早期形式是在这个文明期间进行的。这个文明的一些大城市拥有高水平的城市规划和艺术。这些地区在公元前1700年左右遭到破坏的原因是有争议的，尽管有证据表明这是由自然灾害造成的。&#xa;&#xa;大约从公元前1500年持续到公元前500年。在此期间，梵语得到发展，吠陀经被写成史诗般的赞美诗，讲述了众神和战争的故事。这是吠陀宗教的基础，最终发展为印度教。&#xa;&#xa;中国和越南也是金属加工中心。可以追溯到新石器时代，在越南和中国南部的红河三角洲地区及其周围发现了第一个青铜鼓，称为东山鼓。这些与越南的史前东山文化有关。&#xa;&#xa;在泰国（​​东南亚）班清，发现了公元前 2100 年的青铜器。" ID="ID_1840066326" CREATED="1632028976865" MODIFIED="1632031127139" MAX_WIDTH="314.24999 pt" MIN_WIDTH="314.24999 pt" TEXT_SHORTENED="true"/>
+</node>
+<node TEXT="铁器时代" FOLDED="true" ID="ID_1638286043" CREATED="1632029478205" MODIFIED="1632031732746"><richcontent TYPE="NOTE" CONTENT-TYPE="xml/">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      铁器时代见证了铁制工具、武器和盔甲在亚洲主要文明中的广泛使用。
+    </p>
+  </body>
+</html></richcontent>
+<node TEXT="中东" ID="ID_786271016" CREATED="1632029608270" MODIFIED="1632030213238">
+<node TEXT="第一波斯帝国 公元前500年&#xa;波斯帝国的阿契美尼德王朝由居鲁士大帝建立，在公元前 6 至 4 世纪统治着从希腊和土耳其到印度河和中亚的地区。波斯政治包括对其他文化的宽容、高度集权的政府和重要的基础设施发展。后来在大流士大帝的统治下，领土被整合，官僚机构得到发展，贵族被分配军事职位，税收被精心组织，间谍被用来确保地方官员的忠诚。当时波斯的主要宗教是由哲学家琐罗亚斯德发展的琐罗亚斯德教。它向该地区引入了早期形式的一神教。该宗教禁止祭祀动物和在仪式中使用麻醉剂；并通过个人道德行为、结束时间以及对天堂或地狱的一般和特殊判断引入了精神救赎的概念。这些观念将极大地影响后来的皇帝和群众。更重要的是，琐罗亚斯德教将成为亚伯拉罕宗教如基督教、伊斯兰教或犹太教的重要先驱。波斯帝国成功地在整个中东地区建立了和平与稳定，并对艺术、政治（影响希腊化领导人）和宗教产生了重大影响。&#xa;&#xa;亚历山大大帝在公元前 4 世纪征服了这个王朝，创造了短暂的希腊化时期。他无法建立稳定，在他死后，波斯分裂成小而弱的王朝，包括塞琉古帝国，其次是帕提亚帝国。到古典时代末期，波斯重新统一为萨珊帝国，也被称为第二波斯帝国。&#xa;&#xa;罗马帝国后来控制了西亚的部分地区。波斯的塞琉古王朝、帕提亚王朝和萨珊王朝统治了西亚几个世纪。" ID="ID_1741633067" CREATED="1632029790869" MODIFIED="1632031104775" MAX_WIDTH="278.24999 pt" MIN_WIDTH="278.24999 pt" TEXT_SHORTENED="true">
+<attribute_layout NAME_WIDTH="57.75 pt" VALUE_WIDTH="1974.74994 pt"/>
+</node>
+</node>
+<node TEXT="印度" ID="ID_537762522" CREATED="1632030320440" MODIFIED="1632030323746">
+<node TEXT="这是印度的黄金时代，以科学、技术、艺术、宗教和哲学方面的广泛发明和发现为标志，这些发明和发现凝聚了通常被称为印度文化的元素。起源于印度次大陆的印度教和佛教宗教对南亚、东亚和东南亚产生了重要影响。&#xa;&#xa;印度教在东南亚的扩张&#xa;到公元前 600 年，印度已分为 17 个地区国家，这些国家之间偶尔会发生争执。&#xa;&#xa;公元前327年，亚历山大大帝带着征服全世界的愿景来到印度。他穿越印度西北部并创建了大夏省，但由于他的军队想回到他们的家人身边而无法继续前进。&#xa;&#xa;不久之后，士兵昌德拉笈多孔雀开始控制恒河，并很快建立了孔雀帝国。孔雀帝国是古印度地域辽阔且强大的帝国，由孔雀王朝统治，时间为公元前321年至公元前185年。它是当时世界上最大的帝国之一，北至喜马拉雅山脉，东至现在的阿萨姆邦，西面可能超越现代巴基斯坦，并吞并俾路支省和现在阿富汗的大部分地区程度。孔雀帝国以南是泰米拉坎，一个独立的国家，由三个王朝统治，分别是潘迪安、朱拉斯和蕉赖。&#xa;&#xa;Chandragupta建立的政府由专制国王领导，他主要依靠军队来维护自己的权力。 [5]它还应用了官僚机构的使用，甚至赞助了邮政服务。 Chandragupta 的孙子 Ashoka 通过征服现代印度的大部分地区（南端除外）极大地扩展了帝国。不过，他最终皈依了佛教，并开始了平静的生活，在整个印度推广宗教和人道方法。孔雀王朝在阿育王死后不久即瓦解，被西北的贵霜侵略者征服，建立贵霜帝国。他们皈依佛教导致该宗教与外国人联系在一起，因此其受欢迎程度出现下降。&#xa;&#xa;贵霜帝国将在公元 220 年分崩离析，在印度制造更多的政治动荡。然后在 320 年，笈多帝国）建立并覆盖了印度次大陆的大部分地区。该王朝由大君斯里-古普塔创立，是古典文明的典范。古普塔国王主要通过当地领导人和家庭的谈判以及战略通婚来统一该地区。他们的统治范围比孔雀王朝少，但建立了最大的稳定性。公元535年，印度被匈奴人侵占，帝国灭亡。" ID="ID_503310224" CREATED="1632030381712" MODIFIED="1632031098092" MAX_WIDTH="276.74999 pt" MIN_WIDTH="276.74999 pt" TEXT_SHORTENED="true"/>
+</node>
+<node TEXT="东亚" ID="ID_24757094" CREATED="1632031370968" MODIFIED="1632031373135">
+<node TEXT="周朝" ID="ID_1395874891" CREATED="1632030909082" MODIFIED="1632030915289">
+<node TEXT="元前 1029 年起，周朝在中国存在，并将持续到公元前 258 年。周朝一直采用封建制度，将权力授予地方贵族，依靠他们的忠诚来控制其大片领土。因此，此时的中国政府往往非常分散和软弱，皇帝在解决国家问题上往往无能为力。尽管如此，随着天命的创立，政府得以保住自己的地位，天命可以建立一个神选统治的皇帝。周朝还劝阻了前世的人祭，统一了汉语。最后，周政府鼓励定居者迁入长江流域，从而建立了中国中央王国。&#xa;&#xa;但到了公元前 500 年，由于游牧民族的反复入侵 以及诸侯和家族的争斗引发的内部冲突，其政治稳定性开始下降。从孔子的生平开始，许多哲学运动减少了这一点。他关于尊长尊国的哲学著作（称为儒家）后来在汉朝广为使用。此外，老子的道教观念，包括阴阳、天地万物的二元性和平衡性，在这一时期开始流行。然而，随着地方贵族开始获得更多权力，周朝最终瓦解，他们的冲突进入了战国时期，从公元前 402 年到 201 年。" ID="ID_1893732248" CREATED="1632030974273" MODIFIED="1632031092494" TEXT_SHORTENED="true"/>
+</node>
+<node TEXT="秦朝" ID="ID_1867245009" CREATED="1632031170109" MODIFIED="1632031173950">
+<node TEXT="一位领导人最终登上了顶峰，秦始皇推翻了最后一位周朝皇帝并建立了秦朝。秦朝是中国第一个统治王朝，从公元前 221 年持续到公元前 207 年。新皇帝废除了封建制度，直接任命了一个依靠他掌权的官僚机构。黄帝的帝国军队粉碎了任何地区抵抗，他们通过向南中国海和越南北部扩张来推动中华帝国的发展。更大的组织带来了统一的税收制度、全国人口普查、规范的道路建设、标准尺寸、标准硬币以及官方书面和口头语言。进一步的改革包括新的灌溉项目，鼓励丝绸制造，和（最著名的）中国长城的开始——旨在阻止那些不断骚扰中国人民的游牧入侵者。然而， 秦始皇却以暴政而臭名昭著，强迫劳动者筑墙，下令重税，严惩所有反对他的人。他压迫儒家，宣扬法家，认为人性本恶，需要一个强有力的政府来控制他们。律法主义注入了现实的、合乎逻辑的观点，拒绝接受教育谈话的乐趣，认为这是轻浮的。这一切，都让秦始皇极不得人心。随着秦国开始衰落，各派开始争夺对中国的控制权。" ID="ID_509424751" CREATED="1632031192715" MODIFIED="1632031346890" TEXT_SHORTENED="true"/>
+</node>
+<node TEXT="汉朝" ID="ID_1315105196" CREATED="1632031380052" MODIFIED="1632031383713">
+<node TEXT="汉朝（公元前 206 年 - 公元 220 年）是中国的第二个王朝，在秦朝之后，由三国继承（220 年至 265 年）。&#xa;&#xa;跨越四个世纪的汉朝被认为是中国历史上的黄金时代。汉朝最伟大的皇帝之一，汉武帝，在整个中国建立了和平，可与一百年后在地中海看到的罗马和平相媲美。时至今日，中国占多数的民族自称为“汉族”。&#xa;&#xa;当两个农民成功地反抗石黄明显弱小的继任儿子时，汉朝就建立了。新汉政府保留了秦的中央集权和官僚主义，但大大减少了以前看到的镇压。他们将领土扩展到朝鲜、越南和中亚，建立了一个比秦更大的帝国。&#xa;&#xa;汉人通过丝绸之路与中东的波斯帝国和罗马人建立了联系，他们可以通过丝绸之路交易许多商品——主要是丝绸。&#xa;&#xa;许多古代文明都受到丝绸之路的影响，丝绸之路连接了中国、印度、中东和欧洲。&#xa;&#xa;像吴这样的汉朝皇帝也将儒学宣传为民族“宗教”（尽管神学家们争论它是被定义为儒学还是哲学）。修建了供奉孔子的圣地，向所有进入中国官僚机构的学者传授儒家哲学。随着考试制度的引入，官僚作风得到进一步改善，以选拔优秀学者。这些官僚往往是在特殊学校受过教育的上层阶级，但他们的权力往往被通过他们的技能带入官僚机构的下层阶级所制衡。中华帝国的官僚制度非常有效，受到全国人民的高度尊重，持续了2000多年。汉朝政府组织严密，统辖军事、司法（法院制度和严法）、农业生产、经济和人民的一般生活。政府还提倡思想哲学、科学研究和详细的历史记录。&#xa;&#xa;然而，尽管所有这些令人印象深刻的稳定性，中央权力在公共时代之交开始失去控制。随着汉朝的衰落，许多因素继续使之屈服，直到中国陷入混乱状态。&#xa;&#xa;到公元 100 年，哲学活动放缓，官僚机构腐败猖獗。由于学者们疏忽了他们的职责，地方地主开始控制，这导致了农民的重税。道家开始取得显着的地位，并抗议这种衰落。他们开始宣扬神通，并承诺与他们一起拯救中国； 184年道教黄巾起义（由黄巾起义者领导）失败，但能够削弱政府。前面提到的匈奴加上疾病杀死了多达一半的人口，并于220年正式结束了汉朝。随后的混乱时期是如此可怕，持续了三个世纪，许多弱小的地方统治者和王朝未能在中国建立秩序。这段混沌与秩序的时期，俗称六朝时期。第一部分包括始于 220 年的三国，描述了汉代之后的短暂而弱小的继承“朝代”。公元265年，中国晋朝开始，很快分裂成两个不同的帝国，分别控制中国的西北和东南。公元420年，两朝的征服和退位导致了南北朝的第一次。历经南北朝，终于到了公元557年，北周统治北方，陈朝统治南方。" ID="ID_1526009345" CREATED="1632031386189" MODIFIED="1632031661507" TEXT_SHORTENED="true"/>
+</node>
+</node>
+</node>
+<node TEXT="中世界 5世纪+" ID="ID_540845703" CREATED="1632031688254" MODIFIED="1632034341098"><richcontent TYPE="NOTE" CONTENT-TYPE="xml/">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font color="rgb(0, 0, 0)" face="Roboto, RobotoDraft, Helvetica, Arial, sans-serif">在此期间，东方世界帝国东方世界帝国通过贸易、迁徙和对邻近地区的征服继续扩张。</font><font color="rgb(0, 0, 0)" face="Roboto, RobotoDraft, Helvetica, Arial, sans-serif" size="18px">&nbsp;</font><font color="rgb(0, 0, 0)" face="Roboto, RobotoDraft, Helvetica, Arial, sans-serif">早在 11 世纪，火药就被广泛使用，在古腾堡创造他的印刷机之前五百年，他们就使用活字印刷。</font><font color="rgb(0, 0, 0)" face="Roboto, RobotoDraft, Helvetica, Arial, sans-serif" size="18px">&nbsp;</font><font color="rgb(0, 0, 0)" face="Roboto, RobotoDraft, Helvetica, Arial, sans-serif">佛教、道教、儒教是中世纪远东地区的主流哲学。</font><font color="rgb(0, 0, 0)" face="Roboto, RobotoDraft, Helvetica, Arial, sans-serif" size="18px">&nbsp; </font><font color="rgb(0, 0, 0)" face="Roboto, RobotoDraft, Helvetica, Arial, sans-serif">马可波罗并不是第一个到东方旅行并带着这种不同文化的惊人故事返回的西方人，但他在 13 世纪末和 14 世纪初发表的叙述是第一个在整个欧洲被广泛阅读的人。</font><font color="rgb(0, 0, 0)" face="Roboto, RobotoDraft, Helvetica, Arial, sans-serif" size="18px">&nbsp;</font>
+    </p>
+  </body>
+</html></richcontent>
+<node TEXT="西亚（中东）" ID="ID_1923737706" CREATED="1632032033613" MODIFIED="1632032041499">
+<node TEXT="阿拉伯半岛及其周边的中东和近东地区在中世纪时期发生了巨大的变化，主要是由于伊斯兰教的传播和阿拉伯帝国的建立。&#xa;&#xa;5世纪，中东分裂为弱小的国家；最著名的两个是位于现在的伊朗和伊拉克的波斯人的萨珊帝国，以及位于安纳托利亚（今土耳其）的拜占庭帝国。拜占庭人和萨珊人不断地相互争斗，这反映了过去五百年中罗马帝国和波斯帝国之间的竞争。战斗削弱了两个国家，让舞台向新的力量开放。与此同时，统治阿拉伯沙漠的游牧贝都因部落经历了一段时期的部落稳定、更大的贸易网络​​以及对亚伯拉罕宗教或一神教的熟悉。&#xa;&#xa;虽然拜占庭罗马帝国和萨珊波斯帝国都因 602 年至 628 年的拜占庭-萨珊战争而受到削弱，但在麦地那的穆罕默德领导下，一种以伊斯兰教形式出现的新势力在中东增长。在一系列快速的穆斯林征服中，由哈里发和哈立德·伊本·瓦利德等技艺精湛的军事指挥官率领的拉希敦军队席卷了中东大部分地区，在阿拉伯-拜占庭战争中占领了一半以上的拜占庭领土和穆斯林对波斯的征服完全吞没了波斯。中世纪的阿拉伯哈里发国将首先将整个中东统一为一个独特的地区，并创造今天持续存在的主导民族认同。这些哈里发包括拉希敦哈里发、倭马亚哈里发、阿拔斯哈里发和后来的塞尔柱帝国。&#xa;&#xa;早期的穆斯林征服，622–750&#xa;穆罕默德引入伊斯兰教后，它使中东文化进入伊斯兰黄金时代，鼓舞人心的建筑成就，旧科技进步的复兴，以及独特生活方式的形成。穆斯林保存并传播了希腊在医学、代数、几何、天文学、解剖学和伦理学方面的进步，这些进步后来又回到了西欧。&#xa;&#xa;随着塞尔柱突厥人的到来，阿拉伯人的统治地位在 11 世纪中叶突然结束，他们从中亚突厥人的家园向南迁移。他们征服了波斯、伊拉克（1055 年占领巴格达）、叙利亚、巴勒斯坦和汉志。随后是一系列基督教西欧入侵。中东的分裂使得主要来自英国、法国和新兴的神圣罗马帝国的联军进入该地区。 1099 年，第一次十字军东征的骑士们占领了耶路撒冷并建立了耶路撒冷王国，该王国一直持续到 1187 年萨拉丁重新夺回这座城市。较小的十字军领地一直存在到 1291 年。 13 世纪初，新一波的侵略者蒙古帝国的军队席卷了该地区，在巴格达围城战（1258 年）中洗劫了巴格达，并向南推进至埃及在后来被称为蒙古征服。蒙古人最终于 1335 年撤退，但随后整个帝国的混乱推翻了塞尔柱突厥人。 1401 年，该地区进一步受到突厥-蒙古人、帖木儿及其凶猛袭击的困扰。到那时，另一群土耳其人也出现了，即奥斯曼帝国。" ID="ID_1997035770" CREATED="1632032067315" MODIFIED="1632032297010" TEXT_SHORTENED="true"/>
+</node>
+<node TEXT="中亚" ID="ID_1053621973" CREATED="1632032419745" MODIFIED="1632033016917" LINK="https://en.wikipedia.org/wiki/History_of_Central_Asia#Medieval" MAX_WIDTH="43.5 pt" MIN_WIDTH="43.5 pt">
+<node TEXT="蒙国帝国" ID="ID_1062151729" CREATED="1632032454386" MODIFIED="1632032460645">
+<node TEXT="蒙古帝国在 13 世纪征服了亚洲的大部分地区，从中国延伸到欧洲。 中世纪的亚洲是可汗王国。 从来没有人能像成吉思汗一样控制如此多的土地。 在向南和向西扩展他的王国之前，他建立了统一不同蒙古部落的权力。 他和他的孙子忽必烈控制了中国、缅甸、中亚、俄罗斯、伊朗、中东和东欧的土地。 成吉思汗是一个几乎容忍所有宗教的可汗。" ID="ID_554652957" CREATED="1632032484384" MODIFIED="1632032486683" TEXT_SHORTENED="true"/>
+</node>
+</node>
+<node TEXT="南亚" ID="ID_572947782" CREATED="1632032522685" MODIFIED="1632033000289" MAX_WIDTH="43.5 pt" MIN_WIDTH="43.5 pt">
+<node TEXT="印度" ID="ID_92418262" CREATED="1632032527177" MODIFIED="1632032994569" MAX_WIDTH="62.25 pt" MIN_WIDTH="62.25 pt">
+<node TEXT="印度中世纪早期（600 至 1200 年）由地区王国和文化多样性所定义。当 606 年至 647 年统治印度-恒河平原大部分地区的坎瑙杰的哈沙试图向南扩张时，他被德干的恰鲁克亚统治者击败。当他的继任者试图向东扩张时，他被孟加拉国王帕拉击败。当恰鲁克亚人试图向南扩张时，他们被来自更南边的帕拉瓦人击败，而帕拉瓦人又遭到来自更南边的潘迪亚人和乔拉斯人的反对。 Cholas 可以在 Raja Raja Chola 的统治下击败他们的对手并崛起为地区强国。 Cholas 向北扩张并击败了Eastern Chalukya、Kalinga 和Pala。在 Rajendra Chola 的领导下，Cholas 创建了印度次大陆第一支著名的海军。乔拉海军将乔拉帝国的影响扩展到了东南亚。在此期间，为发展农业经济腾出土地的牧民被安置在种姓社会中，新的非传统统治阶级也是如此。&#xa;&#xa;穆斯林对印度次大陆的征服主要发生在 12 世纪以后，尽管早期的穆斯林征服包括在 8 世纪拉杰普特王国时期有限地入侵现代阿富汗和巴基斯坦以及印度的倭马亚战役。&#xa;&#xa;德里苏丹国和孟加拉苏丹国等主要经济和军事大国被视为建立起来。对他们财富的追寻导致了克里斯托弗·哥伦布的远航。" ID="ID_928653723" CREATED="1632032574713" MODIFIED="1632032590211" TEXT_SHORTENED="true"/>
+</node>
+</node>
+<node TEXT="东亚" ID="ID_498902443" CREATED="1632032629244" MODIFIED="1632033003583" MAX_WIDTH="30 pt" MIN_WIDTH="30 pt">
+<node TEXT="中国" FOLDED="true" ID="ID_1646267151" CREATED="1632032633085" MODIFIED="1632032716166" LINK="https://en.wikipedia.org/wiki/History_of_China"><richcontent TYPE="NOTE" CONTENT-TYPE="xml/">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      中国见证了隋、唐、宋、元的兴衰，官僚体制的改善、佛教的传播和新儒学的出现。 这是中国陶瓷和绘画无与伦比的时代。 中世纪的建筑杰作日本东大寺的大南门和中国北京的天宁寺是这个时代的一些幸存建筑。
+    </p>
+  </body>
+</html></richcontent>
+<node TEXT="隋朝" ID="ID_476006227" CREATED="1632032748617" MODIFIED="1632033023216" MAX_WIDTH="69 pt" MIN_WIDTH="69 pt">
+<node TEXT="一个新的强大王朝在 580 年代开始在中国分裂的派系中崛起。这始于一位名叫杨建的贵族将他的女儿嫁给了北周。他自称为隋文帝，弃儒士绅安抚游牧军。文帝很快率领南陈王朝的征服，并在隋朝再次统一了中国。皇帝减税建粮仓，用来防止饥荒和控制市场。后来温氏的儿子为了皇位杀了他，称自己为隋炀帝。杨帝复兴了儒士和官僚，这引起了贵族和游牧军事领袖的愤怒。杨成为了一个过度的领导者，他过度使用中国的资源来谋求个人奢侈，并不断尝试征服高句丽。他的军事失败和对帝国的忽视迫使他自己的大臣在 618 年暗杀了他，从而结束了隋朝。" ID="ID_1619829336" CREATED="1632032821710" MODIFIED="1632032823509" TEXT_SHORTENED="true"/>
+</node>
+<node TEXT="唐朝" ID="ID_1132325351" CREATED="1632032861009" MODIFIED="1632033021502" MAX_WIDTH="70.5 pt" MIN_WIDTH="70.5 pt"><richcontent TYPE="NOTE" CONTENT-TYPE="xml/">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      在唐朝，佛教得到大力传播。
+    </p>
+  </body>
+</html></richcontent>
+<node TEXT="好在杨氏最受尊敬的谋士之一李渊能够迅速登基，避免了一场混乱的崩溃。他自称为高祖皇帝，并于 623 年建立了唐朝。唐通过征服西部的西藏、南部的越南和北部的满洲，实现了中国的扩张。唐朝皇帝还改善了中国官僚机构对学者的教育。设立礼部并改进考试制度，以更好地使学者能够胜任他们的工作。&#xa;&#xa;此外，佛教在中国流行起来，有两种不同的农民和精英阶层，分别是净土和禅宗。大力支持佛教传播的是吴皇后，她另外声称是非官方的“周朝”，显示了中国对女性统治者的宽容，这在当时是罕见的。然而，佛教也会遭到一些反对，尤其是来自儒家和道家。这通常会涉及到批评它是如何花费国家资金的，因为政府无法向佛教寺院征税，并且还向他们发送了许多赠款和礼物。" ID="ID_307317376" CREATED="1632032866013" MODIFIED="1632032937393" TEXT_SHORTENED="true"/>
+</node>
+<node TEXT="辽、宋、金时期" FOLDED="true" ID="ID_1356207930" CREATED="1632032983349" MODIFIED="1632033364006"><richcontent TYPE="NOTE" CONTENT-TYPE="xml/">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    臭名昭著的缠足习俗在此时期发展起来。
+  </body>
+</html></richcontent>
+<node TEXT="到960年，中国大部分地区在宋朝重新统一，尽管它失去了北方的领土，无法击败那里的游牧部落之一——高度汉化的契丹人的辽朝。 从此，宋人不得不进贡以避侵略，从而开创了其他游牧王国压迫他们的先例。 宋也看到了儒学以新儒学的形式复兴。 这使得儒家学者的地位高于贵族或佛教徒，也加剧了女性权力的减少。 臭名昭著的缠足习俗由此发展起来。 最终北方的辽朝被满族相关的女真人的金朝所推翻。 1126 年，新晋国入侵中国北方，宋朝南逃，建立南宋王朝。在那里，文化生活蓬勃发展。" ID="ID_1375101581" CREATED="1632033119325" MODIFIED="1632033122172" TEXT_SHORTENED="true"/>
+</node>
+<node TEXT="元朝" ID="ID_217390011" CREATED="1632033243133" MODIFIED="1632033339909" MAX_WIDTH="85.5 pt" MIN_WIDTH="85.5 pt"><richcontent TYPE="NOTE" CONTENT-TYPE="xml/">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      黑死病在此时期出现
+    </p>
+  </body>
+</html></richcontent>
+<node TEXT="到1227年，蒙古人已经征服了中国西北的西夏王国。不久，蒙古人向女真人的晋帝国招手。中国城市很快就被蒙古大军围攻，他们对那些抵抗的人毫不留情，南宋中国人很快就失去了领土。 1271年，现任大汗忽必烈称帝，正式建立元朝。到1290年，中国全境被蒙古人控制，这是他们第一次被外来侵略者完全征服；新都建在汗八里（今北京）。忽必烈汗通过阻止两国人民之间的交往，将生活空间和礼拜场所分开，并将最高行政职位留给蒙古人，从而将蒙古文化与中国文化隔离开来，从而阻止了儒家学者延续官僚制度。尽管如此，忽必烈仍然对中国思想着迷，与中国佛教、道教或儒家的顾问团聚。&#xa;&#xa;与继续受到压制的中国妇女相比，蒙古妇女表现出鲜明的独立性。蒙古妇女经常骑马外出打猎甚至打仗。忽必烈的妻子察比就是一个完美的例子。查比就数项政治和外交事务向她的丈夫提供建议；她说服他，中国人应该受到尊重和善待，以便让他们更容易统治。然而，这还不足以影响中国妇女的地位，越来越多的忽必烈新儒家继任者进一步压制中国甚至蒙古妇女。&#xa;&#xa;后来席卷西欧的黑死病起源于亚洲，并于 1331 年在那里消灭了中国的大量人口。" ID="ID_397951295" CREATED="1632033247593" MODIFIED="1632033307310" TEXT_SHORTENED="true"/>
+</node>
+</node>
+<node TEXT="韩国" FOLDED="true" ID="ID_601903256" CREATED="1632033411975" MODIFIED="1632033866953" LINK="https://en.wikipedia.org/wiki/Three_Kingdoms_of_Korea" MAX_WIDTH="49.5 pt" MIN_WIDTH="49.5 pt">
+<node TEXT="朝鲜三国" ID="ID_502568497" CREATED="1632033692508" MODIFIED="1632033930521" MAX_WIDTH="65.25 pt" MIN_WIDTH="65.25 pt">
+<node TEXT="朝鲜三国包括北部的高句丽、西南的百济和朝鲜半岛东南部的新罗。这三个王国就像一座中日文化的桥梁。多亏了他们，日本才能够接受中国灿烂的文化。&#xa;&#xa;日本圣德太子曾受过两位老师的教导。一个是百济人，一个是高句丽人。日本入侵新罗后，高句丽帮助新罗打败了日本。百济遇到了他们最早的鼎盛时期。&#xa;&#xa;&#xa;它的鼎盛时期是公元 5 世纪。它的首都是首尔。在鼎盛时期，王国在海外建立了殖民地。中国辽东和日本九州是百济短暂的全盛时期的殖民地。高句丽是最强大的王国。他们有时称自己为帝国。它的鼎盛时期是6世纪。广开土王向北扩张领土。&#xa;&#xa;所以高句丽从朝鲜半岛到满洲都占统治地位。其子江肃王南扩疆域。他占领了首尔，并将首都迁至平壤。高句丽几乎占领了韩国半岛的四分之三，这要归功于将王国领土向南扩大的蒋肃王。新罗遇见了最新的鼎盛时期。晋香王北上，占领首尔。但时间很短。百济变得更强大并攻击了新罗。百济占领了新罗40多个城市。所以新罗几乎无法生存。中国隋朝入侵高句丽，朝鲜与中国发生高句丽-隋战。高句丽战胜中国，隋朝灭亡。此后，唐朝再次入侵高句丽，帮助新罗统一半岛。高句丽、百济和日本互相帮助对抗唐新罗联盟，但百济和高句丽失败了。不幸的是，唐朝为了占领整个朝鲜半岛而背叛了新罗，入侵了朝鲜半岛（新罗-唐战争）。新罗主张“三韩统一”，百济和高句丽的陨落人帮助新罗抵抗中国的入侵。最终新罗可以打败中国并统一半岛。这场战争帮助朝鲜人民在精神上团结起来。" ID="ID_1457280643" CREATED="1632033569289" MODIFIED="1632033596047" TEXT_SHORTENED="true"/>
+</node>
+<node TEXT="南北时期" ID="ID_297989418" CREATED="1632033705744" MODIFIED="1632033909274" MAX_WIDTH="66 pt" MIN_WIDTH="66 pt">
+<node TEXT="其余的高句丽人建立了渤海，并在公元 7 世纪后期赢得了对唐的战争。 渤海为北国，后新罗为南国。 渤海和他们的祖先高句丽一样是一个相当强大的王国。 最后，唐朝皇帝承认渤海为“东方强国”。 他们喜欢与日本、中国和新罗进行贸易。 渤海和后新罗向中国输送了大量留学生。 再加上阿拉伯商人进入朝鲜半岛，西方国家称朝鲜为“新罗”。 新罗改进了称为 Idu 字母的韩文书写系统。 Idu影响了日本的片假名。 10世纪初辽朝入侵渤海，渤海灭亡。" ID="ID_280358729" CREATED="1632033726720" MODIFIED="1632033730374" TEXT_SHORTENED="true"/>
+</node>
+<node TEXT="朝鲜后三国" ID="ID_488243595" CREATED="1632033740145" MODIFIED="1632033910936" MAX_WIDTH="74.25 pt" MIN_WIDTH="74.25 pt">
+<node TEXT="统一的朝鲜王国，后新罗又因中央政府腐败而分裂为三个王国。 它涉及后高句丽（也称为“太峰”）、后百济和后新罗。 后高句丽将军王建即位，改国名高丽，由古强国高句丽派生，高丽统一半岛。" ID="ID_1150554154" CREATED="1632033753682" MODIFIED="1632033755588" TEXT_SHORTENED="true"/>
+</node>
+<node TEXT="高丽" ID="ID_787425865" CREATED="1632033779449" MODIFIED="1632033934077" MAX_WIDTH="66 pt" MIN_WIDTH="66 pt">
+<node TEXT="高丽在后三国时期重新统一了朝鲜半岛，并称自己为“帝国”。但如今，高丽被称为一个王国。 “高丽”这个名字来源于高句丽，韩国这个名字来源于高丽。高丽收养了沦陷的渤海人。他们还通过保卫辽朝和攻击女真人来扩大他们的领土。高丽发展了灿烂的文化。第一本金属活字印刷书《直记》也来自韩国。高丽瓷器是这个王国最著名的遗产之一。高丽引进了中国的政府体制，并按照自己的方式发展。&#xa;&#xa;在此期间，制定了法律并引入了公务员制度。佛教兴盛，遍及半岛。韩国大藏经共 81,258 本书。它是为了保护韩国免受蒙古入侵而设计的。它现在是联合国教科文组织的世界遗产。高丽赢得了与辽朝的战斗。随后，蒙古帝国入侵高丽。高丽并没有消失，但它必须服从蒙古人。 80年后，14世纪蒙古元朝元朝灭亡，公敏王虽然妻子也是蒙古人，但仍试图摆脱蒙古人的束缚。 14世纪，明朝希望高丽服从中国。但高丽没有。他们决定入侵中国。前往中国，高丽将军李成盖回来摧毁了高丽。然后，在1392年，他建立了新的朝鲜王朝。他成为了朝鲜的太祖，这意味着朝鲜的第一任国王。" ID="ID_1247709716" CREATED="1632033789353" MODIFIED="1632033791361" TEXT_SHORTENED="true"/>
+</node>
+</node>
+<node TEXT="日本" FOLDED="true" ID="ID_868667127" CREATED="1632033804226" MODIFIED="1632033889136" LINK="https://en.wikipedia.org/wiki/History_of_Japan" MAX_WIDTH="56.25 pt" MIN_WIDTH="56.25 pt">
+<node TEXT="飞鸟时代" ID="ID_1359668582" CREATED="1632033827717" MODIFIED="1632033935507" MAX_WIDTH="64.5 pt" MIN_WIDTH="64.5 pt">
+<node TEXT="日本的中世纪历史始于明日香时代，大约从 600 年到 710 年。这个时期的特点是大化改革和帝国集权，这两者都是中国接触和影响日益增长的直接结果。 603年，大和王朝的圣德太子开始了重大的政治和文化变革。 他于 604 年颁布了十七条宪法，将权力集中在皇帝身上（以天王为名），并取消了地方领主征税的权力。 圣德也是佛教的赞助人，他鼓励竞争性地建造寺庙" ID="ID_802744311" CREATED="1632033856117" MODIFIED="1632033861088" TEXT_SHORTENED="true"/>
+</node>
+<node TEXT="奈良时代" ID="ID_1827033671" CREATED="1632033879974" MODIFIED="1632033996971" MAX_WIDTH="68.25 pt" MIN_WIDTH="68.25 pt">
+<node TEXT="圣德的改革将日本转移到奈良时代（约 710 年至约 794 年），日本首都迁至本州的奈良。 这一时期见证了日本的中国式写作、礼仪和建筑以及儒家理想 [15] 的高潮，以补充已经存在的佛教。 农民既尊敬儒家学者，又尊敬佛教僧人。 然而，在 735-737 年日本天花流行之后，佛教获得了国教地位，政府下令建造众多佛教寺庙、寺院和佛像。 [14] 挥霍无度，再加上许多贵族不纳税，给农民带来沉重负担，造成贫困和饥荒。 [14] 最终，佛教地位失控，威胁要夺取皇权，并导致 Kanmu 皇帝将首都迁至平安京以避免佛教接管。 [15] 这标志着平安时代的开始和大化改革的结束。" ID="ID_366622332" CREATED="1632033991215" MODIFIED="1632033994013" TEXT_SHORTENED="true"/>
+</node>
+<node TEXT="平安时代" ID="ID_917480303" CREATED="1632034014336" MODIFIED="1632034026913" MAX_WIDTH="68.25 pt" MIN_WIDTH="68.25 pt">
+<node TEXT="随着平安时代（从 794 年到 1185 年），皇权开始衰落。中国的影响力也下降了，因为它与皇权集权和天命相关，被认为是无效的。到 838 年，日本法院停止了其在中国的大使馆；只有商人和佛教僧侣继续前往中国。佛教本身被认为比中国人更日本，并在日本持续流行。佛教僧侣和寺院继续试图在法庭上与贵族一起聚集个人权力。在皇室官僚机构中占据主导地位的一个特殊的贵族家庭是藤原氏。在此期间，朝廷的文化生活蓬勃发展。专注于美和社交互动，写作和文学被认为是精致的。贵族女性的文化与贵族相同，涉足创意作品和政治。当时日本文学和女性在上流文化中所扮演的角色的一个典型例子是侍女紫式部的《源氏物语》。在贵族中也出现了木制宫殿和正寺推拉门的普及。&#xa;&#xa;皇权的丧失也导致了省级武士精英的兴起。小领主开始独立运作。他们管理法律，监督公共工程，并为自己而不是朝廷收取收入。地区领主也开始建立自己的军队。这些武士只忠于他们的地方领主而不是皇帝，尽管帝国政府越来越多地召集他们来保护首都。地方武士阶级发展成为武士，创造了自己的文化：包括专门的武器，如武士刀和一种骑士精神，武士道。平安时代下半叶，皇朝政府失控，盗贼猖獗，诸侯和寺院都需要武士保护。随着帝国对日本的控制下降，封建领主也变得更加独立并脱离了帝国。这些封建国家对生活在其中的农民挥霍无度，使农民几乎沦为农奴。农民也被严格限制为武士阶级，受到着装和武器的限制。由于受到压迫，许多农民转向佛教，希望在来世对正直行为给予奖励。 [16]&#xa;&#xa;随着封建主义的增强，朝廷的家族开始依赖与地区领主的联盟。藤原氏权力衰落，取而代之的是平氏氏族和源氏氏族之间的竞争。这种竞争在 1180 年代初期发展为源平战争。这场战争同时使用了武士和农民士兵。对于武士来说，战斗是一种仪式，他们经常很容易地砍掉训练有素的农民。由于他们的农村联盟，源氏家族被证明是成功的。平家被摧毁后，源建立了一个以镰仓为中心的军政府，称为幕府（或幕府）。" ID="ID_435858998" CREATED="1632034162717" MODIFIED="1632034165127" TEXT_SHORTENED="true"/>
+</node>
+<node TEXT="镰仓时代" ID="ID_796580934" CREATED="1632034176929" MODIFIED="1632034180021" MAX_WIDTH="68.25 pt" MIN_WIDTH="68.25 pt">
+<node TEXT="元平战争的结束和镰仓幕府的建立，标志着平安时代的结束和1185年镰仓时代的开始，巩固了封建日本。" ID="ID_1803927227" CREATED="1632034192617" MODIFIED="1632034194418" TEXT_SHORTENED="true"/>
+</node>
+</node>
+</node>
+<node TEXT="东南亚" ID="ID_1160918966" CREATED="1632034220913" MODIFIED="1632034230896" LINK="https://en.wikipedia.org/wiki/Medieval_Southeast_Asia"/>
+</node>
+<node TEXT="近现代 17世纪+" ID="ID_476923650" CREATED="1632034269325" MODIFIED="1632034395030"><richcontent TYPE="NOTE" CONTENT-TYPE="xml/">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <span jsaction="click:qtZ4nf,GFf3ac,tMZCfe; contextmenu:Nqw7Te,QP7LD; mouseout:Nqw7Te; mouseover:qtZ4nf,c2aHje" jsname="W297wb"><font color="rgb(0, 0, 0)" face="Roboto, RobotoDraft, Helvetica, Arial, sans-serif" size="18px">俄罗斯帝国从 17 世纪开始向亚洲扩张，并最终在 19 世纪末控制了整个西伯利亚和大部分中亚地区。</font></span><font color="rgb(0, 0, 0)" face="Roboto, RobotoDraft, Helvetica, Arial, sans-serif" size="18px"><span class="VIiyi" jsaction="mouseup:BR6jm" jsname="jqKxS" lang="zh-CN" style="display: inline; color: rgb(0, 0, 0); font-family: Roboto, RobotoDraft, Helvetica, Arial, sans-serif; font-size: 18px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: pre-wrap; word-spacing: 0px; background-color: rgb(245, 245, 245)">&nbsp;</span><span jsaction="click:qtZ4nf,GFf3ac,tMZCfe; contextmenu:Nqw7Te,QP7LD; mouseout:Nqw7Te; mouseover:qtZ4nf,c2aHje" jsname="W297wb">奥斯曼帝国从 16 世纪起控制了安纳托利亚、中东、北非和巴尔干地区。</span><span class="VIiyi" jsaction="mouseup:BR6jm" jsname="jqKxS" lang="zh-CN" style="display: inline; color: rgb(0, 0, 0); font-family: Roboto, RobotoDraft, Helvetica, Arial, sans-serif; font-size: 18px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: pre-wrap; word-spacing: 0px; background-color: rgb(245, 245, 245)">&nbsp;</span><span jsaction="click:qtZ4nf,GFf3ac,tMZCfe; contextmenu:Nqw7Te,QP7LD; mouseout:Nqw7Te; mouseover:qtZ4nf,c2aHje" jsname="W297wb">17世纪，满族征服中国，建立清朝。</span><span class="VIiyi" jsaction="mouseup:BR6jm" jsname="jqKxS" lang="zh-CN" style="display: inline; color: rgb(0, 0, 0); font-family: Roboto, RobotoDraft, Helvetica, Arial, sans-serif; font-size: 18px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: pre-wrap; word-spacing: 0px; background-color: rgb(245, 245, 245)">&nbsp;</span><span jsaction="click:qtZ4nf,GFf3ac,tMZCfe; contextmenu:Nqw7Te,QP7LD; mouseout:Nqw7Te; mouseover:qtZ4nf,c2aHje" jsname="W297wb">16 世纪，莫卧儿帝国控制了印度的大部分地区，开启了印度的第二个黄金时代。</span><span class="VIiyi" jsaction="mouseup:BR6jm" jsname="jqKxS" lang="zh-CN" style="display: inline; color: rgb(0, 0, 0); font-family: Roboto, RobotoDraft, Helvetica, Arial, sans-serif; font-size: 18px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: pre-wrap; word-spacing: 0px; background-color: rgb(245, 245, 245)">&nbsp;</span><span jsaction="click:qtZ4nf,GFf3ac,tMZCfe; contextmenu:Nqw7Te,QP7LD; mouseout:Nqw7Te; mouseover:qtZ4nf,c2aHje" jsname="W297wb">在大部分时间里，中国是世界上最大的经济体，其次是印度，直到 18 世纪。</span><span style="color: rgb(0, 0, 0); font-family: Roboto, RobotoDraft, Helvetica, Arial, sans-serif; font-size: 18px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: pre-wrap; word-spacing: 0px; background-color: rgb(245, 245, 245); display: inline !important; float: none">&nbsp;</span></font>
+    </p>
+  </body>
+</html>
+</richcontent>
+<node TEXT="明朝" ID="ID_1594651849" CREATED="1632034463661" MODIFIED="1632034466584">
+<node TEXT="1368年，朱元璋称帝洪武，建立中国明朝。 立即，新皇帝和他的追随者将蒙古人和他们的文化赶出了中国和长城之外。新皇帝对统治中国官僚机构的学者有些怀疑，因为他出身农民，没有受过教育。尽管如此，儒家学者对于中国的官僚机构来说是必要的，并被重新建立，以及改进考试制度并使他们在进入官僚机构中比以往任何时候都更重要的改革。 考试越来越严格，作弊行为严厉打击，成绩优异的人得到更多的评价。 最后，洪武还把更多的权力放在皇帝的角色上，以结束官僚的腐败影响。&#xa;&#xa;洪武帝也许是出于对平民百姓的同情，修建了许多灌溉系统和其他公共工程，为农民提供了帮助。" ID="ID_1217221665" CREATED="1632034517429" MODIFIED="1632034580817" TEXT_SHORTENED="true"/>
+</node>
+</node>
+</node>
+<node TEXT="欧洲史" ID="ID_1524127060" CREATED="1632024304861" MODIFIED="1632024311087"/>
+<node TEXT="非洲史" ID="ID_32785378" CREATED="1632024312725" MODIFIED="1632024317482"/>
+</node>
+<node TEXT="艺术" FOLDED="true" POSITION="right" ID="ID_1508744737" CREATED="1632027111917" MODIFIED="1632027114130">
+<edge COLOR="#ff00ff"/>
+<node TEXT="吉他" ID="ID_1401658725" CREATED="1632027199818" MODIFIED="1632027389418"/>
+<node TEXT="竹笛" ID="ID_73664767" CREATED="1632027202147" MODIFIED="1632027397960"/>
+<node TEXT="哈尔的移动城堡" ID="ID_1719213833" CREATED="1632027402566" MODIFIED="1632027414043"/>
+</node>
+<node TEXT="社会" POSITION="right" ID="ID_693198237" CREATED="1632027117338" MODIFIED="1632027120763">
+<edge COLOR="#00ffff"/>
+</node>
+<node TEXT="传记" POSITION="right" ID="ID_1604906795" CREATED="1632027136406" MODIFIED="1632027142786">
+<edge COLOR="#7c0000"/>
+<node TEXT="level-0" ENCRYPTED_CONTENT="KK+mkZYROIE= CvP/ztxT6wA/lN1fP5Aq/2AHw5hfghHAq24l7zAz1BsLTivBeSpZR4XMYRa8OQLMuSmxaHTaFax9oZCs6tWhf6IV2+xWteDNuqG9SCuSND3TpfXxzj0nsIWjD1+wlKBbsEgW91jyKpi6S8ADR/tQOpmhYbpdYOqSRtajK+GX+fWLUqNP/z6giE6zyHuVKNjH5k4WAWYMchOK5LsiLjbKw3KLtCKGWtFcgXXZOuuAkwlmaN3WHZjaqSNhr5oSxn4ejlIUSmpnMwtOP+G5WzNHzFkhrrH9tM+fjRe6BMbU3R35bupZjaiKy98MME0ZAKvhw6Gx3nEy/w3rQaj8ET4idxxbdFNnFaA4fxCtaCo+rUYDyMgX6/D5ESLv341eLocB4iHAChDXTiziByw93ZrXD+ux+mKud4CBx3ZIKzezgC/222x/6m2GKO7HdH/gi0sDCsLhBaUV+KJAhIQITi1fj7WPdib2J6a/OC0YVbDVO4ofQXXSjB0j/WYZQAUq3+rUnlizS2FVf/9Al7hPu5ztF8Idqq0BhjZtOkASlsjFPWVwujcg4l+vqqSCcaUhclhJjHQc6Xrq4oqzyLwIMmWzs4Aw7VTxvVUE18WzDQUt1/uWmVRxffUqQ/qSVhR+4fTk9uAtl7w81T330B2VJCMB4JVTlKaMSDmwJ/BnaTYPiD+/UYJu2US7VgM28yLhzkUbs1fcGRGFvbSaYODtyNQModWLipv8D8FcjfFaMKsUfs7HZlPcIzG7ZQ==" ID="ID_1177153048" CREATED="1632027629241" MODIFIED="1632027768863"/>
+<node TEXT="level-1" ENCRYPTED_CONTENT="qEf/aCOqsDw= ujbHZGHawHazCqyx8/QJBps3SeNyCzGujkNTSKWTTDBla3BXoWQcgYGQ2y//Poze4IVho7eyAWbgq6M6rrqX4RywD/hJyXxL9LVsYfgmRnubVlSIBzz5Xjqx8eewncKa" ID="ID_1636363038" CREATED="1632027468641" MODIFIED="1632027761934"/>
+<node TEXT="level-2" FOLDED="true" ID="ID_221818047" CREATED="1632027772489" MODIFIED="1632027775351">
+<node TEXT="哈尔" ID="ID_656629293" CREATED="1632027802926" MODIFIED="1632027815435">
+<node TEXT="拿破仑" ID="ID_1048494149" CREATED="1632027816519" MODIFIED="1632027825206">
+<node TEXT="安迪" ID="ID_518373912" CREATED="1632027846793" MODIFIED="1632027849682"/>
+</node>
+</node>
+<node TEXT="诸葛亮" ID="ID_1873084926" CREATED="1632027782029" MODIFIED="1632027801731"/>
+</node>
+</node>
+<node TEXT="数学" POSITION="right" ID="ID_1576099667" CREATED="1632027153510" MODIFIED="1632027158054">
+<edge COLOR="#00007c"/>
+</node>
+<node TEXT="地理" POSITION="right" ID="ID_115034266" CREATED="1632027166346" MODIFIED="1632027168087">
+<edge COLOR="#007c00"/>
+</node>
+<node TEXT="技术" FOLDED="true" POSITION="right" ID="ID_1823025029" CREATED="1632027183457" MODIFIED="1632027187638">
+<edge COLOR="#007c7c"/>
+<node TEXT="后端" ID="ID_719613903" CREATED="1632027969501" MODIFIED="1632027975826">
+<node TEXT="golang" ID="ID_357907730" CREATED="1632027948492" MODIFIED="1632027955362"/>
+</node>
+<node TEXT="前端" ID="ID_847105107" CREATED="1632027978102" MODIFIED="1632027982279">
+<node TEXT="html" ID="ID_1616055262" CREATED="1632027956857" MODIFIED="1632027959253"/>
+<node TEXT="javascript" ID="ID_140836197" CREATED="1632027959702" MODIFIED="1632027965491"/>
+<node TEXT="css" ID="ID_1045007600" CREATED="1632027965732" MODIFIED="1632027967054"/>
+</node>
+</node>
+<node TEXT="url" FOLDED="true" POSITION="right" ID="ID_137293624" CREATED="1632019600853" MODIFIED="1632021125873">
+<edge COLOR="#ff0000"/>
+<node TEXT="health" ID="ID_984996929" CREATED="1632019607362" MODIFIED="1632022182986">
+<hook LAT="34.30714385628804" LON="89.47265625" ZOOM="3" NAME="plugins/openmaps/OpenMapsNodeHook.propterties"/>
+<node TEXT="- [https://www.healthline.com/](https://www.healthline.com/)" ID="ID_1770423209" CREATED="1632019621416" MODIFIED="1632019830850" FORMAT="markdownPatternFormat"/>
+</node>
+</node>
+</node>
+</map>
